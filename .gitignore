@@ -10,3 +10,7 @@ std.pdf
 *.ind
 *.tmp
 .DS_Store
+
+source/std.synctex.gz(busy)
+
+source/std.synctex.gz
